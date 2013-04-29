@@ -1,9 +1,5 @@
-
 $(document).ready(function(){
-
             var map, editor;
-           
-           
             OpenLayers.Lang.setCode('fr');
 
             map = new OpenLayers.Map('map');
